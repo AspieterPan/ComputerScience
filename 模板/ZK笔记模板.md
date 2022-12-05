@@ -1,5 +1,5 @@
 ---
-title: 
+title:{{title}}
 uid: {{date:YYYYMMDDHHmm}}
 aliases: []
 tags: []
