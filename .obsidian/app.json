@@ -1,0 +1,11 @@
+{
+  "vimMode": true,
+  "promptDelete": false,
+  "spellcheck": true,
+  "showLineNumber": true,
+  "showFrontmatter": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "01Inbox",
+  "newLinkFormat": "shortest"
+}

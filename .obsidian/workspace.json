@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "bdaf990b301889de",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ff427323e9c1fac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a2587abc3a9201f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3346823fefe42abe",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3c1221eb81fd0e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ac8290d324da09b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1620a916bf8dc524",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b57dc4369874cbb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "89352bedb06eaae8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6a9bc38089e96d9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "661aa9475732457e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43b3b94f7a60013c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6627d5839d8293d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3af8e6ce31d5ea9b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "71c06f8a10970e68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "895cd35f29dcbb05",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5a2587abc3a9201f",
+  "lastOpenFiles": [
+    "模板/ZK笔记模板.md",
+    "01Inbox/Mobile Ip.md",
+    "01Inbox/mobile host.md",
+    "01Inbox/HA.md",
+    "01Inbox/foreign agent.md",
+    "Excalidraw/Drawing 2022-12-03 21.19.34.excalidraw.md",
+    "01Inbox/home agent.md",
+    "Zettelkasten/202212041157.md",
+    "Zettelkasten/202212040049.md",
+    "Zettelkasten/202109121613第一张ZK笔记.md"
+  ]
+}

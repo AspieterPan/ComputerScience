@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "a9296116cd528f7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b91ffde73b3b416c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ec71cfb54300c75",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0c0d498309fe87e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3095b7284e8d221d",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "f3071a720b817d2a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2dcf8b16c26160c4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a5fb858b30ade0ef",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b8def51ae334fec7",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "right": {
+    "id": "24c64882bae35101",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b9750004cecf1837",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fcfbf435967677bf",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9a092d9f3764fbc2",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "3095b7284e8d221d",
+  "lastOpenFiles": [
+    "请先阅读这里（Readme）.md",
+    "02笔记库/这里可以放置你的笔记.md",
+    "00演示文件夹/看板演示.md",
+    "00演示文件夹/Excalidraw演示.excalidraw.md",
+    "未命名.md",
+    "00演示文件夹/Excalidraw演示.md",
+    "日记/2021-12-06.md",
+    "模板/ZK笔记模板.md"
+  ]
+}
