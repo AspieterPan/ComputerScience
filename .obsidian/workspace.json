@@ -11,8 +11,13 @@
             "id": "5a2587abc3a9201f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "日记/2022-12-19.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -41,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2022-12-17.md",
+                "file": "日记/2022-12-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2022-12-17.md",
+                "file": "日记/2022-12-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2022-12-17.md"
+                "file": "日记/2022-12-19.md"
               }
             }
           },
@@ -176,7 +180,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5ac8290d324da09b",
+  "active": "5a2587abc3a9201f",
   "lastOpenFiles": [
     "日记/2022-12-03.md",
     "日记/2022-12-12.md",
