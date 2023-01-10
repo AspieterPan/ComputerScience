@@ -11,13 +11,8 @@
             "id": "5a2587abc3a9201f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2022-12-19.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -120,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2022-12-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2022-12-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "日记/2022-12-19.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,15 +173,15 @@
   },
   "active": "5a2587abc3a9201f",
   "lastOpenFiles": [
+    "Zettelkasten/202109121613第一张ZK笔记.md",
+    "Zettelkasten/202212040049.md",
+    "日记/2022-12-19.md",
+    "日记/2022-12-17.md",
+    "模板/ZK笔记模板.md",
+    "01Inbox/MAR.md",
+    "01Inbox/MDR.md",
     "日记/2022-12-03.md",
     "日记/2022-12-12.md",
-    "01Inbox/Host.md",
-    "模板/ZK笔记模板.md",
-    "01Inbox/Mobile Ip.md",
-    "01Inbox/mobile host.md",
-    "01Inbox/HA.md",
-    "01Inbox/foreign agent.md",
-    "Excalidraw/Drawing 2022-12-03 21.19.34.excalidraw.md",
-    "01Inbox/home agent.md"
+    "01Inbox/Host.md"
   ]
 }
