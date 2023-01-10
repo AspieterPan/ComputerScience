@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01Inbox/码元传输速率.md",
+                "file": "01Inbox/码元.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01Inbox/码元传输速率.md",
+                "file": "01Inbox/码元.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01Inbox/码元传输速率.md",
+                "file": "01Inbox/码元.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01Inbox/码元传输速率.md"
+                "file": "01Inbox/码元.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "f14c5df01e7b1e3b",
   "lastOpenFiles": [
-    "01Inbox/码元.md",
     "01Inbox/码元传输速率.md",
+    "01Inbox/码元.md",
     "日记/2023-01-10.md",
     "01Inbox/波特.md",
     "01Inbox/奈奎斯特定理.md",
