@@ -1,4 +1,4 @@
-![[ComputerCompose]]
-![[DataStructure]]
-![[ComputerNetwork]]
-![[OperationSystem]]
+- [[ComputerCompose]]
+- [[DataStructure]]
+- [[ComputerNetwork]]
+- [[OperationSystem]]

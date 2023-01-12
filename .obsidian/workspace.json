@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01Inbox/数据率.md",
+                "file": "日记/2023-01-12.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01Inbox/数据率.md",
+                "file": "日记/2023-01-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01Inbox/数据率.md",
+                "file": "日记/2023-01-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01Inbox/数据率.md"
+                "file": "日记/2023-01-12.md"
               }
             }
           },
@@ -154,17 +154,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "43b3b94f7a60013c",
+  "active": "15cfd9d78ce34f69",
   "lastOpenFiles": [
-    "01Inbox/数据率.md",
-    "01Inbox/奈奎斯特定理.md",
-    "02笔记库/Network/Drawing 2023-01-10 17.46.46.excalidraw.md",
-    "02笔记库/Network/ComputerNetwork.md",
     "02笔记库/ComputerScience.md",
+    "模板/ZK笔记模板.md",
+    "02笔记库/Network/信噪比.md",
+    "02笔记库/Network/ComputerNetwork.md",
+    "02笔记库/Network/foreign agent.md",
+    "02笔记库/Network/数据率.md",
+    "02笔记库/Network/奈奎斯特定理.md",
+    "02笔记库/Network/Drawing 2023-01-10 17.46.46.excalidraw.md",
     "02笔记库/Compose/ComputerCompose.md",
-    "01Inbox/mobile host.md",
-    "01Inbox/香农定理.md",
-    "01Inbox/信息传输速率.md",
-    "01Inbox/采样定理.md"
+    "02笔记库/Network/mobile host.md"
   ]
 }
